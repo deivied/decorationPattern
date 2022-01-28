@@ -1,0 +1,26 @@
+        <div class="body-container">
+            <div class="item-list">
+                <form action="">
+                    <div class="item">
+                        <label for="resto">Sejour avec resto</label>
+                        <input type="checkbox" name="resto" id="resto">
+                    </div>
+                    <div class="item">
+                        <label for="resto">Sejour avec piscine</label>
+                        <input type="checkbox" name="piscine" id="piscine">
+                    </div>
+                    <div class="item">
+                        <label for="resto">Sejour avec sport</label>
+                        <input type="checkbox" name="sport" id="sport">
+                    </div>
+
+                    <div class="item">
+                        <input type="button" name="" id="" value="Valider Offre">
+                    </div>
+                </form>
+
+            </div>
+            <div class="detail-choice">
+                
+            </div>
+            
